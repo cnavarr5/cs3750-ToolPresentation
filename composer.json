@@ -1,0 +1,12 @@
+{
+    "name": "chris/travis-demo",
+    "require": {
+        "phpunit/phpunit": "^8.3"
+    },
+    "authors": [
+        {
+            "name": "Christian Navarro",
+            "email": "cnavarr5@bruinmail.slcc.edu"
+        }
+    ]
+}
