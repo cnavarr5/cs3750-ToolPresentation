@@ -3,6 +3,9 @@
     "require": {
         "phpunit/phpunit": "^8.3"
     },
+    "scripts": {
+        "test" : ["vendor/bin/phpunit"]
+    },
     "authors": [
         {
             "name": "Christian Navarro",
