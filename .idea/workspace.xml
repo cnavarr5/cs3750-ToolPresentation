@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cd573fa-a179-45ee-b888-e0f247047e1c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-    </list>
+    <list default="true" id="0cd573fa-a179-45ee-b888-e0f247047e1c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +178,7 @@
       <updated>1567732032340</updated>
       <workItem from="1567732033457" duration="1549000" />
       <workItem from="1568432614718" duration="634000" />
-      <workItem from="1568676698759" duration="865000" />
+      <workItem from="1568676698759" duration="988000" />
     </task>
     <task id="LOCAL-00001" summary="Committed dummy tests">
       <created>1567732712349</created>
@@ -211,7 +209,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3048000" />
+    <option name="totallyTimeSpent" value="3171000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
