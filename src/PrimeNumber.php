@@ -36,7 +36,7 @@ class PrimeNumber
         if ($n < 0) {
             throw new InvalidArgumentException();
         }
-        return $this->_primes[$n];
+        return $this->_primes[$n] + 1;
     }
 
     public function isPrime($num): bool
